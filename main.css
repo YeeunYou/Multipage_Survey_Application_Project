@@ -1,0 +1,59 @@
+header{
+	font-family: 'Raleway', sans-serif;
+	font-size: 3.5em;
+	color: #006666;
+	text-align: center;
+	border-bottom: 2px solid #006666;
+	padding-top: 2%;
+	padding-bottom: 1%;
+}
+body{
+	background-color: #fff;
+}
+#wrap{
+	font-family: 'Dosis', sans-serif;
+	width: 600px;
+	margin: 0 auto;
+	text-align: justify;
+	padding-top: 3%;
+	font-size: 1.5em;
+}
+
+input{ 
+	font-size: 1em;
+}
+#submit{ 
+	display: block;
+	margin: 0 auto;
+	width:200px;
+	height: 50px;
+	color: #006666;
+} 
+form{ 
+	width:700px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 5%;
+	font-family: 'Dosis', sans-serif;
+	font-size: 1.5em;
+}
+#prev{
+	font-size: 0.7em;
+	width:150px;
+	height: 30px;
+	color: #006666;
+}
+#next{
+	font-size: 0.7em;
+	width:150px;
+	height: 30px;
+	color: #006666;
+}
+table{
+	width:500px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 5%;
+	font-family: 'Dosis', sans-serif;
+	font-size: 1.5em;
+}
